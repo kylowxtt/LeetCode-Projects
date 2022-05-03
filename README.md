@@ -1,2 +1,2 @@
 # LeetCode-Projects
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+A collection of the LeetCode projects I have undertaken in order to bolster my skills.
